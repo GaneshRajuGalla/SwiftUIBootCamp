@@ -28,5 +28,12 @@ Mask
 
 https://github.com/GaneshRajuGalla/SwiftUIBootCamp/assets/61533653/2f66ec40-625c-411c-93e3-f46c2c915c80
 
+BackGroundThread
+
+https://github.com/GaneshRajuGalla/SwiftUIBootCamp/assets/61533653/4aedf453-6088-43c0-879c-6658c94a97ee
+
+
+
+
 
 
