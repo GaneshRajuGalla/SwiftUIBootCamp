@@ -36,6 +36,8 @@ DownloadJsonEscaping
 
 https://github.com/GaneshRajuGalla/SwiftUIBootCamp/assets/61533653/4ac1dec4-c76e-458c-85a5-09cf5c2e4f61
 
+Timer & onReceive
 
+https://github.com/GaneshRajuGalla/SwiftUIBootCamp/assets/61533653/3d54a482-a495-47c9-ab51-eaa4aebf46aa
 
 
